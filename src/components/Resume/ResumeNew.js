@@ -17,7 +17,7 @@ function ResumeNew(){
         <div>
             <Container>
                 <Particle/>
-                <Row style={{justifyContent:"center", position:"relative"}}>
+                <Row style={{justifyContent:"center", position:"relative", paddingTop:"80px"}}>
                     <Button
                         variant="primary"
                         href={pdf}
@@ -35,7 +35,7 @@ function ResumeNew(){
                     </Document>
                 </Row>
 
-                <Row style={{justifyContent:"center", position:"relative"}}>
+                <Row style={{justifyContent:"center", position:"relative", paddingBottom:"40px"}}>
                     <Button
                         variant="primary"
                         href={pdf}
