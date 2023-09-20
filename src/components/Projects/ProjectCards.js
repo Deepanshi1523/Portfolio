@@ -15,6 +15,7 @@ function ProjectCards(props) {
         </Card.Text>
         <Button variant="primary" href={props.ghLink} target="_blank">
           <BsGithub /> &nbsp;
+          {"GitHub"}
         </Button>
         {"\n"}
         {"\n"}
