@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.0d6186ff.css",
-    "main.js": "/Portfolio/static/js/main.eea95b06.js",
+    "main.css": "/Portfolio/static/css/main.b1900097.css",
+    "main.js": "/Portfolio/static/js/main.11a1e37c.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Deepanshi_Singhal_resume.pdf": "/Portfolio/static/media/Deepanshi_Singhal_resume.ec5e6ae00001e075f0af.pdf",
+    "static/media/Deepanshi_Singhal_resume.pdf": "/Portfolio/static/media/Deepanshi_Singhal_resume.dc773f23cc325a6683a0.pdf",
     "static/media/avatar.png": "/Portfolio/static/media/avatar.17c360b6c061e3b1a229.png",
     "static/media/foodie.png": "/Portfolio/static/media/foodie.44a8c5dd2d38201f9436.png",
     "static/media/drumkit.png": "/Portfolio/static/media/drumkit.6c46485329ac60ef1e19.png",
@@ -11,16 +11,19 @@
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/diceGame.png": "/Portfolio/static/media/diceGame.b245dae01c9d85fc5a73.png",
     "static/media/tindog.png": "/Portfolio/static/media/tindog.2eba9a13873548758523.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.f391e6cb929d9492f27d.png",
     "static/media/simonGame.png": "/Portfolio/static/media/simonGame.8aa029257cc5f8e514a8.png",
+    "static/media/blog.jpg": "/Portfolio/static/media/blog.569cfefbd54046f5aa89.jpg",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Ipod-pic.png": "/Portfolio/static/media/Ipod-pic.f7a6a1f9c5a1682b2648.png",
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
-    "main.0d6186ff.css.map": "/Portfolio/static/css/main.0d6186ff.css.map",
-    "main.eea95b06.js.map": "/Portfolio/static/js/main.eea95b06.js.map",
+    "main.b1900097.css.map": "/Portfolio/static/css/main.b1900097.css.map",
+    "main.11a1e37c.js.map": "/Portfolio/static/js/main.11a1e37c.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d6186ff.css",
-    "static/js/main.eea95b06.js"
+    "static/css/main.b1900097.css",
+    "static/js/main.11a1e37c.js"
   ]
 }
