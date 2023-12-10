@@ -3,6 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import diceGame from "../../Assets/Projects/diceGame.png";
+import blogImg from "../../Assets/Projects/blog.jpg";
+import ipod from "../../Assets/Projects/Ipod-pic.png";
 import drumkit from "../../Assets/Projects/drumkit.png";
 import foodie from "../../Assets/Projects/foodie.png";
 import simonGame from "../../Assets/Projects/simonGame.png";
@@ -63,6 +65,24 @@ function Projects(){
                             description="It is a two man game where only one can win. In this we generate a random number on both dice. The number is in the range of 1-6 same as that of a real dice. The player with highest number wins the game. This project is based on event listeners and randomisation property of the javascript."
                             ghLink="https://github.com/Deepanshi1523/diceChallenge.github.io"
                             demoLink="https://deepanshi1523.github.io/diceChallenge.github.io/"
+                        />
+                    </Col>
+                    <Col md={4} className="project-card">
+                        <ProjectCard
+                            imgPath={ipod}
+                            title="iPod"
+                            description="Used React.js to create a dynamic web app with a visually appealing interface inspired by the iconic iPod. Implemented intuitive navigation controls for a classic scroll-wheel experience. Emphasized responsive design for consistent user experience on diverse devices. Integrated audio playback for users."
+                            ghLink="https://github.com/Deepanshi1523/my-ipod"
+                            demoLink="https://deepanshi1523.github.io/my-ipod/"
+                        />
+                    </Col>
+                    <Col md={4} className="project-card">
+                        <ProjectCard
+                            imgPath={blogImg}
+                            title="iPod"
+                            description="This platform serves as a valuable space for creators and explorers to share their thoughts and experiences. Crafted appealing blog layouts with React, prioritizing user experience. Implemented MongoDB for efficient data storage. Implemented secure user authentication for blog functions, prioritizing data protection."
+                            ghLink="https://github.com/Deepanshi1523/blogie"
+                            demoLink="https://github.com/Deepanshi1523/blogie"
                         />
                     </Col>
                 </Row>
