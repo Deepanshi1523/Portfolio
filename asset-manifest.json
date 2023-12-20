@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b1900097.css",
-    "main.js": "/Portfolio/static/js/main.91ebfca9.js",
+    "main.js": "/Portfolio/static/js/main.e46cd62b.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Deepanshi-Singhal-Resume.pdf": "/Portfolio/static/media/Deepanshi-Singhal-Resume.08baeacb3fe3b13cf26a.pdf",
     "static/media/avatar.png": "/Portfolio/static/media/avatar.17c360b6c061e3b1a229.png",
@@ -19,11 +19,11 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.b1900097.css.map": "/Portfolio/static/css/main.b1900097.css.map",
-    "main.91ebfca9.js.map": "/Portfolio/static/js/main.91ebfca9.js.map",
+    "main.e46cd62b.js.map": "/Portfolio/static/js/main.e46cd62b.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1900097.css",
-    "static/js/main.91ebfca9.js"
+    "static/js/main.e46cd62b.js"
   ]
 }
