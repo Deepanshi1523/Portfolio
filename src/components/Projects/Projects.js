@@ -69,7 +69,7 @@ function Projects(){
                     </Col>
                     <Col md={4} className="project-card">
                         <ProjectCard
-                            imgPath={iPod}
+                            imgPath={ipod}
                             title="iPod"
                             description="Used React.js to create a dynamic web app with a visually appealing interface inspired by the iconic iPod. Implemented intuitive navigation controls for a classic scroll-wheel experience. Emphasized responsive design for consistent user experience on diverse devices. Integrated audio playback for users."
                             ghLink="https://github.com/Deepanshi1523/my-ipod"
