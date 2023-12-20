@@ -79,7 +79,7 @@ function Projects(){
                     <Col md={4} className="project-card">
                         <ProjectCard
                             imgPath={blogImg}
-                            title="iPod"
+                            title="Blogie"
                             description="This platform serves as a valuable space for creators and explorers to share their thoughts and experiences. Crafted appealing blog layouts with React, prioritizing user experience. Implemented MongoDB for efficient data storage. Implemented secure user authentication for blog functions, prioritizing data protection."
                             ghLink="https://github.com/Deepanshi1523/blogie"
                             demoLink="https://github.com/Deepanshi1523/blogie"
